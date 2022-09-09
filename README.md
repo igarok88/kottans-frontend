@@ -14,3 +14,9 @@
 ![Image text](https://github.com/igarok88/kottans-frontend/blob/main/task_git_collaboration/Screenshot_2.jpg)
 
 Для мене ці команди git виявилися зовсім новими. Можливо слід створювати нові гілки для написання нових фіч, потім їх об'еднувати зі збереженням історії, або вибрати спосіб комміт за коммітом)
+
+## Intro to HTML and CSS
+
+![Image text](https://github.com/igarok88/kottans-frontend/blob/main/task_html_css_intro/Screenshot_1.jpg)
+
+З HTML та CSS я мав справу до цього курсу, структурована інформація розставляє все по поличкам. В HTML звернув увагу на важливість семантики. В СSS показили як я розумію досить стару технологію float з clear, для легасі коду думаю знадобиться)
