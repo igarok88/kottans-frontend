@@ -24,6 +24,6 @@
 ## Responsive Web Design
 
 ![Image text](https://github.com/igarok88/kottans-frontend/blob/main/task_responsive_web_design/Screenshot_1.jpg)
-![Image text](https://github.com/igarok88/kottans-frontend/blob/main/task_responsive_web_design/Screenshot_1.jpg)
+![Image text](https://github.com/igarok88/kottans-frontend/blob/main/task_responsive_web_design/Screenshot_2.jpg)
 
 Ця частина курсу дуже сподобалась. Теоретична частина с ютубу на п'ятірочку, дякаю Фрілансер по-життю. Практика ще краще, в ігровій формі виконувати практику саме задоволення. Раніше з flex мав справу, чого не скажу про grid. Цікавий підхід в реалізації макету на грідах, і підтримка цих правил зараз дуже хороша, думаю саме час юзати гріди в повсякденній верстці.
