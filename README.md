@@ -20,3 +20,10 @@
 ![Image text](https://github.com/igarok88/kottans-frontend/blob/main/task_html_css_intro/Screenshot_1.jpg)
 
 З HTML та CSS я мав справу до цього курсу, структурована інформація розставляє все по поличкам. В HTML звернув увагу на важливість семантики. В СSS показили як я розумію досить стару технологію float з clear, для легасі коду думаю знадобиться)
+
+## Responsive Web Design
+
+![Image text](https://github.com/igarok88/kottans-frontend/blob/main/task_responsive_web_design/Screenshot_1.jpg)
+![Image text](https://github.com/igarok88/kottans-frontend/blob/main/task_responsive_web_design/Screenshot_1.jpg)
+
+Ця частина курсу дуже сподобалась. Теоретична частина с ютубу на п'ятірочку, дякаю Фрілансер по-життю. Практика ще краще, в ігровій формі виконувати практику саме задоволення. Раніше з flex мав справу, чого не скажу про grid. Цікавий підхід в реалізації макету на грідах, і підтримка цих правил зараз дуже хороша, думаю саме час юзати гріди в повсякденній верстці.
