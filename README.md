@@ -27,3 +27,14 @@
 ![Image text](https://github.com/igarok88/kottans-frontend/blob/main/task_responsive_web_design/Screenshot_2.jpg)
 
 Ця частина курсу дуже сподобалась. Теоретична частина с ютубу на п'ятірочку, дякаю Фрілансер по-життю. Практика ще краще, в ігровій формі виконувати практику саме задоволення. Раніше з flex мав справу, чого не скажу про grid. Цікавий підхід в реалізації макету на грідах, і підтримка цих правил зараз дуже хороша, думаю саме час юзати гріди в повсякденній верстці.
+
+## JS Basics
+
+![Image text](https://github.com/igarok88/kottans-frontend/blob/main/task_js_basics/1.jpg)
+![Image text](https://github.com/igarok88/kottans-frontend/blob/main/task_js_basics/2.jpg)
+![Image text](https://github.com/igarok88/kottans-frontend/blob/main/task_js_basics/3.jpg)
+![Image text](https://github.com/igarok88/kottans-frontend/blob/main/task_js_basics/4.jpg)
+![Image text](https://github.com/igarok88/kottans-frontend/blob/main/task_js_basics/5.jpg)
+![Image text](https://github.com/igarok88/kottans-frontend/blob/main/task_js_basics/6.jpg)
+
+Фух! Алгоритми середній рівень виявились досить складними для мене. Довго думав, пробував, та нарешті виконав всі обов'язкові завдання. Піддивився розв'язання одного з завдань, та зрозумів, що потрібно вчити регулярні вирази, на котрих ще втратив деякий час. Кожну наступну задачу виконую все швидше, таким чином розумію що стаю сильнішим)
